@@ -1,5 +1,3 @@
-// Lab 11B
-// Programmer : Luke Tascone
 
 #include <iostream>
 
